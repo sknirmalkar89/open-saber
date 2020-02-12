@@ -51,12 +51,20 @@
         },
          "timestamp": {
           "$id": "#/properties/timestamp",
+<<<<<<< HEAD
           "type": "date",
           "format": "date-time",
           "$comment": "Timestamp",
           "default": "",
           "examples": [
             "2017-09-23T20:21:34Z"
+=======
+          "type": "string",
+          "$comment": "Timestamp",
+          "default": "",
+          "examples": [
+            "1580729777849"
+>>>>>>> ea977607d5bf6af087ca5eba71152d49ec069ddb
           ]
         }
       }
