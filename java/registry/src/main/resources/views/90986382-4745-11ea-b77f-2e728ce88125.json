@@ -15,16 +15,31 @@
       "title": "isActive"
     },
     {
-      "name": "role",
-      "title": "Role"
+      "name": "role"
     },
     {
-      "name": "isInKronos",
-      "title": "Is In Kronous"
+      "name": "isInKronos"
     },
     {
       "name": "workLocation"
+    },
+    {
+      "name": "startDate"
+    },
+    {
+      "name": "endDate"
+    },
+    {
+      "name": "repoAccess"
+    },
+    {
+      "name": "slackAccess"
+    },
+    {
+      "name": "macAddress"
+    },
+    {
+      "name": "osid"
     }
-
   ]
 }
